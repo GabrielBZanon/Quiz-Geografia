@@ -1,7 +1,7 @@
 # Quiz-Geografia
 Aplicativo Quiz Geografia
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9fb9cdc7-9f63-4127-9692-ee050506f501)
 
 
 ## Tecnologias Utilizadas
